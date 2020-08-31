@@ -1,5 +1,5 @@
 require 'spec_helper'
-
+require 'pry'
 describe 'Genre' do
   describe '#name' do
     it 'has a name' do
